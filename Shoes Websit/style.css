@@ -372,7 +372,7 @@ section .main .button:hover i{
 .about .about_main .about_text p{
     background: linear-gradient(to left, #c72092 , #6c14d0);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: black;
     line-height: 22px;
     width: 600px;
     text-align: justify;
